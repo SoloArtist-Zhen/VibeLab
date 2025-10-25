@@ -2,12 +2,6 @@
 
 一个面向工程初学者与课堂演示的可视化小项目。包含常见的单/双自由度模型、PID 闭环响应、隔振传递率等，配有交互控件与简洁动画。目标是**能跑、好看、容易改**。
 
-<!-- ===== 封面插图位（建议 GIF 录屏 10–20s） ===== -->
-<!-- 将你的录屏或动图放到 screenshots/ 目录，并替换下方文件名 -->
-<p align="center">
-  <img src="screenshots/hero.gif" alt="Demo preview" width="820"/>
-</p>
-
 ## 功能概览
 - **Mass–Spring–Damper**：位移/速度时域曲线、相图，附质量块往复动画
 - **PID Tuning Lab**：拖动 Kp、Ki、Kd 查看超调、整定时间、IAE 等指标
@@ -15,11 +9,11 @@
 - **Two-DOF Modes**：双自由度特征频率与模态向量，可视化模态振型动画
 
 <!-- ===== 功能插图位（1~3 张静态图） ===== -->
-<!-- 运行后自行截图放入 screenshots/，并取消下方注释 -->
-<!--
-![Time response](screenshots/time_response.png)
-![Transmissibility](screenshots/transmissibility.png)
-![Mode shapes](screenshots/modes.png)
+
+<!--<img width="400" height="450" alt="newplot" src="https://github.com/user-attachments/assets/58028c44-d1e6-4f4a-8bc9-878fe8e66d42" />
+<img width="816" height="450" alt="newplot-3" src="https://github.com/user-attachments/assets/bd36b5e9-887e-40dc-8f56-d99749e3a047" />
+<img width="400" height="450" alt="newplot-2" src="https://github.com/user-attachments/assets/36d438c1-1184-4ba7-8ef2-b00e4df6b8da" />
+
 -->
 
 ## 快速开始
