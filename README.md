@@ -11,8 +11,9 @@
 <!-- ===== 功能插图位（1~3 张静态图） ===== -->
 
 <img width="400" height="450" alt="newplot" src="https://github.com/user-attachments/assets/58028c44-d1e6-4f4a-8bc9-878fe8e66d42" />
-<img width="816" height="450" alt="newplot-3" src="https://github.com/user-attachments/assets/bd36b5e9-887e-40dc-8f56-d99749e3a047" />
 <img width="400" height="450" alt="newplot-2" src="https://github.com/user-attachments/assets/36d438c1-1184-4ba7-8ef2-b00e4df6b8da" />
+<img width="816" height="450" alt="newplot-3" src="https://github.com/user-attachments/assets/bd36b5e9-887e-40dc-8f56-d99749e3a047" />
+
 
 
 ## 快速开始
